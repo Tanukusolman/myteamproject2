@@ -4,7 +4,7 @@ node{
     echo "Team Names"
     //git crdentials: 'Tanukusolman', url: 'https://github.com/Tanukusolman/myteamproject2.git'
   stage('Buildproject'){
-    echo "solman"
+    echo "solman1"
     echo "akhil"
     echo "manoj"
     echo "pravalilka"

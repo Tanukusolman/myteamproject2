@@ -2,7 +2,7 @@
 node{
   stage('SCM Checkout'){
     echo "Team Names"
-    //git crdentials: 'Tanukusolman', url: 'https://github.com/Tanukusolman/Myteamdevops.git'
+    //git crdentials: 'Tanukusolman', url: 'https://github.com/Tanukusolman/myteamproject2.git'
   stage('Buildproject'){
     echo "solman"
     echo "akhil"
